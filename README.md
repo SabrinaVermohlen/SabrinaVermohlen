@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩🏻‍💻 Sabrina de Souza Vermohlen
 
-<!--
-**SabrinaVermohlen/SabrinaVermohlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, tudo bem? ✨
 
-Here are some ideas to get you started:
+Me chamo Sabrina de Souza Vermohlen e sou apaixonada por tecnologia! 🚀🎀  
+Estou cursando Ciência da Computação e estou em busca da minha primeira oportunidade na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div> 
+  <a href="mailto:sabrinadesouzavermohlen@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
+  </a>
+  <a href="https://www.linkedin.com/in/sabrina-de-souza-vermohlen/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+### 📚 Tecnologias que estou estudando:
+- Python
+- HTML, CSS, JavaScript
+- Banco de Dados (MySQL)
+
+### 🎯 Atualmente focada em:
+- Desenvolvimento Web
+- Programação em Python
+
+---
+
+### 📊 Estatísticas
+
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaVermohlen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
