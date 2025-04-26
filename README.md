@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sabrina de Souza Vermohlen
+# 👩🏻‍💻 Sabrina Vermohlen
 
 Oi, tudo bem? ✨
 
